@@ -1,0 +1,226 @@
+@media only screen and (max-width:1200px) {
+  .col h3 {
+    font-size: 18px;
+  }
+
+  .steps {
+    width: 100%;
+  }
+
+  .city-name {
+    font-size: 23px;
+  }
+
+  .city-box p,
+  .city-box a {
+    font-size: 16px;
+  }
+
+  .testimonials {
+    height: 565px;
+  }
+
+  blockquote {
+    font-size: 15px;
+  }
+
+  cite {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width:1024px) {
+  .hero-text-box h1 {
+    font-size: 30px;
+    margin-top: 70px;
+  }
+
+  .nav-item {
+    margin: 0 0 0 18px;
+  }
+
+  .features {
+    width: 100%;
+  }
+
+  .features .row {
+    margin-left: 30px;
+  }
+
+  .col {
+    width: 22%;
+    text-align: center;
+  }
+
+  .col h3 {
+    font-size: 21px;
+  }
+
+  .col p {
+    font-size: 15px;
+  }
+
+  .app-screen {
+    width: auto;
+    height: 350px;
+    margin-left: 130px;
+  }
+
+  .works-step p {
+    font-size: 18px;
+  }
+
+  .ios {
+    margin-left: 200px;
+  }
+
+  .cities-title {
+    font-size: 26px;
+  }
+
+  .city-name {
+    font-size: 19px;
+  }
+
+  .city-box p {
+    font-size: 14px;
+  }
+
+  .city-box a {
+    font-size: 11px;
+  }
+
+  .testimonials {
+    height: 642px;
+  }
+
+  .plans {
+    width: 100%;
+  }
+
+  .plan-box {
+    margin-right: 70px;
+    display: block;
+    width: 60%;
+    margin: 30px auto;
+  }
+
+  .form {
+    width: 100%;
+  }
+
+  .form-box input[type=text] {
+    margin-left: 120px;
+  }
+
+  .form-box input[type=email] {
+    margin-left: 123px;
+  }
+
+  .form-box select {
+    margin-left: 0;
+  }
+
+  .form-box textarea {
+    margin-left: 46px;
+  }
+
+  .footer {
+    width: 100%;
+  }
+
+  .footer-links li {
+    margin: 0 10px;
+  }
+
+
+}
+
+@media only screen and (max-width:768px) {
+  .nav-items {
+    display: none;
+    float: left;
+    margin-left: 40px;
+    margin-top: 16px;
+  }
+
+  .nav-item{
+    display: block;
+    margin-top: 10px;
+  }
+
+  .hum{
+    display: block;
+  }
+
+  .col {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+
+  .col p {
+    font-size: 20px;
+  }
+
+  .works-box,
+  .works-step {
+    display: inline-block;
+    float: none;
+  }
+
+  .works-step {
+    margin-left: 10px;
+  }
+
+  .steps a {
+    margin: 0;
+    margin-left: 10px;
+  }
+
+  .cities-box {
+    display: block;
+    float: none;
+    margin: 0;
+    width: 100%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+
+  blockquote {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+
+  .testimonials {
+    height: 1150px;
+  }
+
+  .form {
+    width: 100%;
+  }
+
+  .form-box div,
+  .form-box input[type=text],
+  .form-box input[type=email],
+  select,
+  .form-box textarea {
+    margin: 0;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+
+  .footer-links,
+  .social-links {
+    float: none;
+    display: block;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+
+}
+
+@media only screen and (max-width:480px) {}
